@@ -262,7 +262,7 @@ body {
       position: absolute;
       top: 0;
       left: 0;
-      background-image: linear-gradient(to right bottom, #00CB98, rgba(109, 234, 178, 0));
+      background-image: linear-gradient(to right bottom, rgba(0, 203, 152, 0), rgba(109, 234, 178, 0));
       opacity: .4; }
     .results__fig img,
     .likes__fig img {
@@ -317,7 +317,7 @@ body {
       position: absolute;
       top: 0;
       left: 0;
-      background-image: linear-gradient(to right bottom, #A5FFD6, rgba(3, 167, 142, 0));
+      background-image: linear-gradient(to right bottom, rgba(165, 255, 214, 0), rgba(3, 167, 142, 0));
       opacity: .6; }
   .recipe__img {
     width: 100%;
