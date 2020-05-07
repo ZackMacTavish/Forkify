@@ -317,7 +317,7 @@ body {
       position: absolute;
       top: 0;
       left: 0;
-      background-image: linear-gradient(to right bottom, #A5FFD6, #03A78E);
+      background-image: linear-gradient(to right bottom, #A5FFD6, rgba(3, 167, 142, 0));
       opacity: .6; }
   .recipe__img {
     width: 100%;
